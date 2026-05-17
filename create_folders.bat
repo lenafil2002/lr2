@@ -1,5 +1,5 @@
 echo off
-rem create нового каталога
+rem create new catalog
 md firstcat
 rem go to into new catalog
 cd firstcat
