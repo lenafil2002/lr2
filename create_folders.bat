@@ -1,4 +1,3 @@
-echo off
 rem create new catalog
 md firstcat
 rem go to into new catalog
